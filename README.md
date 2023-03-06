@@ -1,8 +1,8 @@
 - Sou a Rosa Márcia!
 - 📫 Estudante de Big Data no Agronegócio, da FATEC Shunji Nishimura,
-(inicio janeiro 2021/término dezembro 2023, cursando 4° termo).
+(inicio janeiro 2021/término dezembro 2023, cursando 5° termo).
 - LInkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-- E-mail: rosa.olive@gmail.com
+- E-mail: rosa.marciaolive22@gmail.com
 - -> Fins: Registros de projetos e atividades em aula!
 
 <!---
